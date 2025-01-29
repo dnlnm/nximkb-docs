@@ -64,3 +64,5 @@ First, remove the OLED module from PCB, if you follow the [preparation](#prepara
 ![landscape](https://picsum.photos/id/0/5000/3333)
 
 Lay down the top case on flat face. Then
+
+### Close the case
