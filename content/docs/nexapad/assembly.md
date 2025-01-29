@@ -7,7 +7,7 @@ weight: 1
 
 ## Bill of Materials
 
-The following is needed to build the NexaPad. Make sure you have all the parts listed below.\
+The following is needed to build the NexaPad. Make sure you have all the parts listed below.
 If not, you can contact me on the links above.
 
 ![landscape](https://i.imgur.com/dvZZec1.jpeg)
@@ -24,9 +24,3 @@ If not, you can contact me on the links above.
 * **4x Rubber feet**
 * **12x Keycaps**
 * **12x MX switches**
-
-> [!NOTE]
-> * Keep in mind that this is a DIY macropad. It's not a polished product.
-> * The case and keycaps are 3D printed. Some imperfections are normal.
-
-## Steps
