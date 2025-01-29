@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: nximkb
 
 # import hextra as module
 module:
@@ -24,23 +24,25 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 4
+      url: "https://github.com/dnlnm"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+    - name: Facebook
+      weight: 5
+      url: "https://facebook.com/"
       params:
-        icon: x-twitter
+        icon: facebook
+    - name: Discord
+      weight: 6
+      url: "https://discord.com/"
+      params:
+        icon: discord
 
 params:
   navbar:
@@ -49,8 +51,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
