@@ -3,4 +3,9 @@ title: Documentation
 next: first-page
 ---
 
-This is documentation site for nximkb. Explore the guide on the sidebar.
+## Explore
+
+{{< cards >}}
+  {{< card link="docs/nexapad" title="NexaPad Guide" icon="book-open" >}}
+  {{< card link="about" title="About" icon="user" >}}
+{{< /cards >}}
