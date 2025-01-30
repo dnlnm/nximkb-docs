@@ -21,11 +21,11 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Shop ↗
       url: "https://shop.nximkb.com/"
+      weight: 2
+    - name: About
+      pageRef: /about
       weight: 3
     - name: Search
       weight: 4
