@@ -24,22 +24,25 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Search
+    - name: Shop ↗
+      url: "https://shop.nximkb.com/"
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 5
       url: "https://github.com/dnlnm"
       params:
         icon: github
     - name: Facebook
-      weight: 5
+      weight: 6
       url: "https://facebook.com/"
       params:
         icon: facebook
     - name: Discord
-      weight: 6
+      weight: 7
       url: "https://discord.com/"
       params:
         icon: discord
