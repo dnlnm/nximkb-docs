@@ -57,7 +57,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://docs.nximkb.com"
+            --baseURL "https://nximkb.com"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
