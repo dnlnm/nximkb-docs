@@ -39,7 +39,7 @@ layout: hextra-home
     subtitle="A 3x4 macropad with knob and OLED display."
     link="/nexapad/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/nexapad.webp"
+    image="/images/nexapad.webp"
     imageClass="hx-top-[10%] hx-w-[180%] sm:hx-w-[110%]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
